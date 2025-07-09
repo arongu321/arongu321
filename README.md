@@ -4,6 +4,8 @@
 
 <img align="left" alt="arongu321's Github Stats" src="https://github-readme-stats-aron-gus-projects.vercel.app//api?username=arongu321&show_icons=true&hide_border=true&theme=maroongold"/>
 
+<br>
+
 <img align="left" alt="arongu321's Github Top Languages" src="https://github-readme-stats-aron-gus-projects.vercel.app//api/top-langs?username=arongu321&hide=vhdl,verilog,systemverilog,jupyter%20notebook,html,css,v,tcl&langs_count=6" />
 
 <!--
