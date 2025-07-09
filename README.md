@@ -4,7 +4,7 @@
 
 <img align="left" alt="arongu321's Github Stats" src="https://github-readme-stats-aron-gus-projects.vercel.app//api?username=arongu321&show_icons=true&hide_border=true&theme=maroongold"/>
 
-[![Top Langs](https://github-readme-stats-aron-gus-projects.vercel.app//api/top-langs/?username=arongu321)](https://github.com/arongu321/github-readme-stats)
+<img align="left" alt="arongu321's Github Top Languages" src="https://github-readme-stats-aron-gus-projects.vercel.app//api/top-langs/?username=arongu321" />
 
 <!--
 **arongu321/arongu321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
