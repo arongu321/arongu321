@@ -10,7 +10,6 @@
 <a href="discordapp.com/users/656566266760396820">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<a>
 </div>
 
 I'm an aspiring software engineer looking for backend developer roles currently. I have previously worked as a Robotics Research Assistant(Software Engineering) at [DRDC](https://www.linkedin.com/company/drdc/posts/?feedView=all), Research Assistant(Software Engineering) for [ADAMS Lab](https://www.adams-lab.ca/)
