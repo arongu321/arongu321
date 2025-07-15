@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Aron Gu!
 
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({https://www.linkedin.com/in/aron-gu-161526201/})
+![https://www.linkedin.com/in/aron-gu-161526201/]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 I'm an aspiring software engineer looking for backend developer roles currently. I have previously worked as a Robotics Research Assistant(Software Engineering) at [https://www.linkedin.com/company/drdc/posts/?feedView=all](DRDC)(Defence Research and Development of Canada), Research Assistant(Software Engineering) for [https://www.adams-lab.ca/](ADAMS Lab)
 at the University of Alberta, and as a Teaching Assistant in Database Management Systems at the University of Alberta. I was also part of a ground breaking startup project called [https://devpost.com/software/yolo-brawlers](Yolo Brawlers) that allows humans to translate their movements into robot fighting actions using computer vision, ESP32 microcontrollers, servo motors, and custom hydraulic controlled robots!
