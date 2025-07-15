@@ -12,8 +12,11 @@
 </a>
 </div>
 
-I'm an aspiring software engineer looking for backend developer roles currently. I have previously worked as a Robotics Research Assistant(Software Engineering) at [DRDC](https://www.linkedin.com/company/drdc/posts/?feedView=all), Research Assistant(Software Engineering) for [ADAMS Lab](https://www.adams-lab.ca/)
-at the University of Alberta, and as a Teaching Assistant in Database Management Systems at the University of Alberta. I was also part of a ground breaking startup project called [YOLO Brawlers](https://github.com/yolo-brawlers/yolo-brawlers) that allows humans to translate their movements into robot fighting actions using computer vision, ESP32 microcontrollers, servo motors, and custom hydraulic controlled robots!
+I'm an aspiring software engineer looking for backend developer roles currently. 
+
+I have previously worked as a Robotics Research Assistant(Software Engineering) at [DRDC](https://www.linkedin.com/company/drdc/posts/?feedView=all), Research Assistant(Software Engineering) for [ADAMS Lab](https://www.adams-lab.ca/) at the University of Alberta, and as a Teaching Assistant in Database Management Systems at the University of Alberta.
+
+I was part of a ground breaking startup project called [YOLO Brawlers](https://github.com/yolo-brawlers/yolo-brawlers) that won 1st Place in HackED 2025 allowing humans to translate their movements into robot fighting actions using computer vision, ESP32 microcontrollers, servo motors, and custom hydraulic controlled robots!
 
 ---
 
