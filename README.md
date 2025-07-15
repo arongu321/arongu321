@@ -1,12 +1,14 @@
 ## Hi there 👋 I'm Aron Gu!
 
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({https://www.linkedin.com/in/aron-gu-161526201/})
+
+I'm an aspiring software engineer looking for backend developer roles currently. I have previously worked as a Robotics Research Assistant(Software Engineering) at [https://www.linkedin.com/company/drdc/posts/?feedView=all](DRDC)(Defence Research and Development of Canada), Research Assistant(Software Engineering) for [https://www.adams-lab.ca/](ADAMS Lab)
+at the University of Alberta, and as a Teaching Assistant in Database Management Systems at the University of Alberta. I was also part of a ground breaking startup project called [https://devpost.com/software/yolo-brawlers](Yolo Brawlers) that allows humans to translate their movements into robot fighting actions using computer vision, ESP32 microcontrollers, servo motors, and custom hydraulic controlled robots!
 ---
 
 <img align="left" alt="arongu321's Github Stats" src="https://github-readme-stats-aron-gus-projects.vercel.app//api?username=arongu321&show_icons=true&hide_border=true&theme=maroongold"/>
 
-<br>
-
-<img align="left" alt="arongu321's Github Top Languages" src="https://github-readme-stats-aron-gus-projects.vercel.app//api/top-langs?username=arongu321&hide=vhdl,verilog,systemverilog,jupyter%20notebook,html,css,v,tcl&langs_count=6" />
+<img align="right" alt="arongu321's Github Top Languages" src="https://github-readme-stats-aron-gus-projects.vercel.app//api/top-langs?username=arongu321&hide=vhdl,verilog,systemverilog,jupyter%20notebook,html,css,v,tcl&langs_count=6" />
 
 <!--
 **arongu321/arongu321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
