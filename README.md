@@ -20,10 +20,10 @@ I was part of a ground breaking startup project called [YOLO Brawlers](https://g
 
 ---
 
-<table>
+<table border="0">
 <tr>
 <td valign="top">
-<img alt="arongu321's Github Top Languages" src="https://github-readme-stats-aron-gus-projects.vercel.app//api/top-langs?username=arongu321&hide=vhdl,verilog,systemverilog,jupyter%20notebook,html,css,v,tcl&langs_count=6&theme=maroongold"/>
+<img alt="arongu321's Github Top Languages" src="https://github-readme-stats-aron-gus-projects.vercel.app//api/top-langs?username=arongu321&hide=vhdl,verilog,systemverilog,jupyter%20notebook,html,css,v,tcl,makefile&theme=maroongold"/>
 </td>
 <td valign="top">
 <img alt="arongu321's Github Stats" src="https://github-readme-stats-aron-gus-projects.vercel.app//api?username=arongu321&show_icons=true&hide_border=true&theme=maroongold&hide_rank=true"/>
