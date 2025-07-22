@@ -12,7 +12,7 @@
 </a>
 </div>
 
-I'm an aspiring software engineer looking for backend developer roles currently. 
+I'm an aspiring software engineer looking for backend developer roles currently.
 
 I specialize in backend development using Python, C++, SQL, and MongonDB. I have previously worked as a Robotics Research Assistant(Software Engineering) at [DRDC](https://www.linkedin.com/company/drdc/posts/?feedView=all), Research Assistant(Software Engineering) for [ADAMS Lab](https://www.adams-lab.ca/) at the University of Alberta, and as a Teaching Assistant in Database Management Systems at the University of Alberta.
 
@@ -20,7 +20,7 @@ I was part of a ground breaking startup project called [YOLO Brawlers](https://g
 
 ---
 
-<img alt="arongu321's Github Stats" src="https://github-readme-stats-aron-gus-projects.vercel.app//api?username=arongu321&show_icons=true&hide_border=true&theme=maroongold"/>
+<img alt="arongu321's Github Stats" src="https://github-readme-stats-aron-gus-projects.vercel.app//api?username=arongu321&show_icons=true&hide_border=true&theme=maroongold&hide_rank=true"/>
 
 <br>
 
